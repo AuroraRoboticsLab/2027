@@ -1,6 +1,6 @@
-# UAF Robot Control Architecture, 2023 Version
+# UAF Robot Control Architecture, 2027 Version
 ## Codebase
-The autonomy/ directory contains our robot control stack, written in C++ for Linux and running happily on x86 and ARM based robots including the Raspberry Pi or NVIDIA Jetson.  See [the README in that directory](https://github.com/AuroraRoboticsLab/MiningRobot/blob/master/autonomy/README.txt) for build directions.
+The autonomy/ directory contains our robot control stack, written in C++ for Linux and running happily on x86 and ARM based robots including the Raspberry Pi or NVIDIA Jetson.  See the README in that directory for build directions.
 
 
 ## LUNATIC
@@ -24,5 +24,5 @@ For autonomous robot operations, we rely on a huge variety of microservices, suc
 This architecture has been incrementally built up since 2013 by a variety of UAF students for the NASA Robotic Mining Contest.  Unless otherwise noted, everything here is public domain. 
 
 For details on how build and run this software, see autonomy/README.
-Send a pull request or email lawlor@alaska.edu if you have comments or suggestions!
+Send a pull request or email sjsabin@alaska.edu if you have comments or suggestions!
 
